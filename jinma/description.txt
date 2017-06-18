@@ -1,0 +1,21 @@
+Description
+
+Output the sum of the two numbers.
+Input
+
+There are several test cases. For each test case, there is one line with two integers A and B.
+Output
+
+For each test case, output one line with the sum of A and B.
+Sample Input
+
+1 2
+4 5
+
+ 
+Sample Output
+
+ 
+
+3
+9
